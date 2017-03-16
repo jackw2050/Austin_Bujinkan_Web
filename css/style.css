@@ -86,13 +86,13 @@ ul.nav {
     font-weight: bold;
 }
 .navbar-default .navbar-nav>li>a:hover {
-    color: #42b3e5;
+    color: #B71C1C; /*  #B71C1C; */
 }
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #000;
 }
 li a.active {
-    color: #42b3e5 !important;
+    color: #B71C1C !important;
 }
 .navbar-default .navbar-toggle {
     border-color: #fff;
@@ -189,7 +189,7 @@ li a.active {
 
 .about h2 {
     font-size: 90px;
-    color: #42b3e5;
+    color: #B71C1C;
     margin-top: 50px;
 }
 .about h4 {
@@ -269,10 +269,10 @@ li a.active {
     padding-bottom: 30px;
 }
 .single-about-detail:hover .about-details {
-    background: #3a9dca;
+    background: #B71C1C;
 }
 .single-about-detail:hover .pentagon-text h1 {
-    color: #3a9dca;
+    color: #B71C1C;
 }
 
 /*service area*/
@@ -388,7 +388,7 @@ li a.active {
 }
 .team h2 {
     font-size: 90px;
-    color: #42b3e5;
+    color: #B71C1C;
     margin-top: 50px;
     margin-bottom: 0;
 }
@@ -473,7 +473,7 @@ li a.active {
 /*contact section*/
 
 .contact-caption {
-    background: #3a9dca;
+    background: #B71C1C;
 }
 .contact-heading h2 {
     color: #fff;
@@ -606,7 +606,7 @@ li a.active {
     padding: 22px 10px;
 }
 .footer a i.fa:hover {
-    color: #42b3e5;
+    color: #B71C1C;
 }
 .carousel-inner {
     position: relative;
@@ -836,7 +836,7 @@ responsive area
     }
     .about h2 {
         font-size: 50px;
-        color: #42b3e5;
+        color: #B71C1C;
         margin-top: 30px;
     }
     .service h2 {
